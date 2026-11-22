@@ -14,3 +14,6 @@ Advantages:
 - Time & Operational Efficiency: "In Swiss banking, compliance officers and RMs typically spend 45 to 90 minutes per alert manually cross-checking transaction logs against KYC profiles—a workflow this copilot accelerates by ~75%, turning hours of investigative memo drafting into a 2-minute review."
 
 - Risk Reduction & Commercial Speed: "At the same time, pre-screening client emails against FIDLEG (LSFin) suitability rules catches regulatory red flags before they leave the bank—protecting against costly FINMA sanctions while allowing Relationship Managers to follow up with clients 5x faster."
+
+run: streamlit run app.py
+
